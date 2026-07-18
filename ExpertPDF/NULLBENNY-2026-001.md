@@ -2,7 +2,7 @@
 
 **Advisory ID:** NULLBENNY-2026-001
 **CVE:** Pending assignment
-**Date:** 1 July 2026
+**Date:** 18 July 2026
 **Researcher:** nullbenny
 **Vendor:** ExpertPDF (html-to-pdf.net)
 **Vendor notified:** 25 June 2026
