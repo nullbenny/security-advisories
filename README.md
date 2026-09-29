@@ -13,7 +13,7 @@ GitHub: [@nullbenny](https://github.com/nullbenny)
 |---|---|---|---|---|---|
 | NULLBENNY-2026-001 | ExpertPDF HtmlToPdf Converter 12.2.0–21.1.0 | CWE-918 | High/Critical | Pending | Embargoed until 23 Sep 2026 |
 | NULLBENNY-2026-TGO-001 | tgoai/tgo v0.5.0 — Workflow SSRF + Missing Auth | CWE-918 + CWE-862 | Critical (9.6) | Pending | Embargoed until 26 Sep 2026 |
-| NULLBENNY-2026-TGO-002 | tgoai/tgo v0.5.0 — Plugin Installer RCE | CWE-494 + CWE-88 + CWE-22 | Critical (9.6) | Pending | Embargoed until 26 Sep 2026 |
+| NULLBENNY-2026-TGO-003 | tgoai/tgo v0.5.0 — Plugin Installer RCE | CWE-494 + CWE-88 + CWE-22 | Critical (9.6) | Pending | Embargoed until 26 Sep 2026 |
 
 
 
